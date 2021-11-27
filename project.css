@@ -152,6 +152,7 @@
     }
     #info {
         width: 90%;
+        text-align: center;
     }
     .col2, .col3 {
         margin: 0;
